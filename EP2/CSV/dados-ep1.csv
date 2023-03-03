@@ -1,0 +1,5 @@
+,name,num_process,num_threads,time,time
+,,,,mean,std
+0,mandelbrot_omp,1,32,296010.7,1738.196322500868
+1,mandelbrot_pth,1,32,442229.5,9946.078079658671
+2,mandelbrot_seq,1,1,3176108.9,18106.97487740872
